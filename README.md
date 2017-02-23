@@ -6,4 +6,4 @@ I'll try to update this list soon :).
 
 * [Nearest Neighbour Algorithm](NearestNeighour.R)
 
-* [3-Layer Neural Network](3_Layer_Neural_Network.py) and the [logs](3_Layer_Neural_Network_LOGS)
+* [3-Layer Neural Network](3_Layer_Neural_Network.py) in python with tensorflow computed on GPU CUDA cores and the [logs](3_Layer_Neural_Network_LOGS)
