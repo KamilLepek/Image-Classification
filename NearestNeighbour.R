@@ -1,4 +1,4 @@
-# Image classifier on MNIST dataset by the nearest neighnour criterion
+# Image classifier on MNIST dataset by the nearest neighbour criterion
 # About MNIST:
 # http://yann.lecun.com/exdb/mnist/
 # MNIST images in jpg format:
