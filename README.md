@@ -1,6 +1,6 @@
 # Image-Classification
 
-In this repository I'm trying to solve the problem of MNIST handwritten digits dataset classification with various algorithms. My goal is to train some convolutional neural networks and learn about deep learning in general. [MNIST handwritten digit databse.](http://yann.lecun.com/exdb/mnist/)
+In this repository I'm trying to solve the problem of MNIST handwritten digits dataset classification with various algorithms. [MNIST handwritten digit databse.](http://yann.lecun.com/exdb/mnist/)
 
 * [Nearest Neighbour Algorithm](NearestNeighbour.R)
 
